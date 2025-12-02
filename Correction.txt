@@ -1,0 +1,8 @@
+1. The last part of the caption in Fig. 13. is changed into ")." to correct the use of punctuation. 
+2. footnotes is updated in this vision. 
+
+%%%
+1. The C1 C2 in Fig.4  is changed to be Cr according the comment of reviewer 2.
+2. The Ci in equation 14 is changed into Ai for reducing divergence.
+3. In page 9, the system dc-dc efficiency is emphasized as "considering all the losses from PA to rectifier" according to comment of reviewer 2
+4. footnotes is updated in this vision
