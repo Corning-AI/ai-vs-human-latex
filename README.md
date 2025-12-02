@@ -19,6 +19,48 @@
 
 ---
 
+## 🎓 What You Can Learn | 你能学到什么
+
+<table>
+<tr>
+<td>
+
+**From this project, you can learn highly advanced paper aesthetics techniques:**
+
+| Technique | Description |
+|-----------|-------------|
+| 📊 **Tables with Images** | Embed beautiful figures inside table cells |
+| 📐 **Equations Anywhere** | Place mathematical formulas in any location |
+| 🎨 **Artistic Table Lines** | Make table borders look more elegant and professional |
+| 📈 **Schematics in Data Plots** | Insert schematic diagrams within data figures |
+| 🖼️ **2D to 3D Effects** | Create stunning 3D visual effects using 2D drawings |
+| 🧲 **Complex 3D Fields** | Express intricate 3D magnetic field distributions |
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+**从这个工程中，您可以学到非常高级的论文美学技巧：**
+
+| 技巧 | 描述 |
+|------|------|
+| 📊 **表格嵌入图片** | 在表格单元格中嵌入精美的图片 |
+| 📐 **公式任意放置** | 让数学公式出现在任何位置 |
+| 🎨 **艺术化表格线** | 让表格框线看起来更有艺术感 |
+| 📈 **数据图中插入示意图** | 在数据图表中嵌入示意图 |
+| 🖼️ **2D画出3D效果** | 用二维图画出令人惊叹的三维效果 |
+| 🧲 **复杂3D磁场表达** | 表达非常复杂的三维磁场分布 |
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Overview
 
 This repository contains the **complete LaTeX source code** for the IEEE Transactions on Power Electronics (TPEL) paper:
